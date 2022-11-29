@@ -6,12 +6,13 @@
 # 3. Was the output what you thought it would be?
 
 names = ['richard', 'chris', 'dani']
+capital_names = []
 
 names.each do |name|
-  name.capitalize
+  capital_names << name.capitalize
 end
 
-p names
+p capial_names
 
 
 # Task # 2
