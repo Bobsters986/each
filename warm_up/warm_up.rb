@@ -5,7 +5,9 @@
 # questions.
 
 # 1. What is the 'Collection'?
+## an array of strings
 # 2. What do you notice about the code below?
+## it returns the string at the given index
 # 3. What issues could potentially crop up?
 # 4. Is there an alternative you could propose?
 
